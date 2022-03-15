@@ -1,0 +1,31 @@
+.menu-Urls {
+    height: 80px;
+    border-bottom:10px solid #efefefef;
+}
+
+.menu {
+    margin-left: 80px;
+    width: 70%;
+    float: left;
+}
+
+.menu ul li {
+    margin-left: 50px;
+    display: inline-block;
+    color: rgb(94, 94, 124);
+    height: 30px;
+} 
+
+.menu ul li:hover {
+    border-bottom: 2px solid rgb(255, 187, 0);
+}
+
+.menu ul li a:hover {
+    color: rgb(255, 187, 0);
+}
+
+.menu ul li a {
+    color: rgb(44, 239, 93);
+    font-size: 16px;
+    text-transform: uppercase;
+}

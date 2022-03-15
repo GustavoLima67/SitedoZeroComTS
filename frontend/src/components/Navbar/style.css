@@ -1,0 +1,13 @@
+.busca {
+    text-align: center;
+    float: right;
+    margin-right: 40px;
+}
+
+.busca input {
+    height: 20px;
+    padding-left: 15px;
+    width: 150px;
+    margin-top: 13px;
+    border: 3px solid rgb(128, 141, 141);
+}
